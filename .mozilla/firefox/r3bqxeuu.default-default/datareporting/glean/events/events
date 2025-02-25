@@ -1,0 +1,3 @@
+{"timestamp":4348240,"category":"webcompatreporting","name":"reason_dropdown","extra":{"setting":"required","glean_timestamp":"1740463356981"}}
+{"timestamp":4349432,"category":"nimbus_events","name":"is_ready","extra":{"glean_timestamp":"1740463358172"}}
+{"timestamp":4352742,"category":"urlbar","name":"engagement","extra":{"selected_position":"1","groups":"heuristic","glean_timestamp":"1740463361482","provider":"HeuristicFallback","engagement_type":"enter","selected_result_subtype":"","n_chars":"43","n_words":"1","interaction":"pasted","results":"url","sap":"urlbar","selected_result":"url","search_engine_default_id":"google-b-e","search_mode":"","n_results":"1"}}
