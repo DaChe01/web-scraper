@@ -13,3 +13,18 @@ venv/
 # Ignore logs and temporary files
 *.log
 
+# Ignore system files and hidden directories
+.cache/
+.config/
+.local/
+.mozilla/
+.bash_history
+.bash_logout
+.bash_profile
+.bashrc
+.cshrc
+.lesshst
+.tcshrc
+.viminfo
+.vboxclient-*
+anaconda-ks.cfg
